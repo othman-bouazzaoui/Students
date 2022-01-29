@@ -24,6 +24,7 @@ public class EtudiantsApplication {
 	@Autowired
 	private IEtudiantService etudiantservice;
 	
+	//W
 	@Autowired
 	private ISchoolService schoolService;
 	
